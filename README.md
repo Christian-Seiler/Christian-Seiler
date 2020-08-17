@@ -3,6 +3,12 @@
 - I'm currently working at [Swiss Mobiliar Insurance Ltd.](www.mobiliar.ch)
 - I'm currently studying Computer Science at [University of Applied Sciences and Arts FHNW](www.fhnw.ch)
 
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 [website]: http://www.christianseiler.ch
 [twitter]: https://twitter.com/christerseiler
 [youtube]: https://youtube.com/
