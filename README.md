@@ -3,6 +3,7 @@
 - I'm currently working at [Swiss Mobiliar Insurance Ltd.](www.mobiliar.ch)
 - I'm currently studying Computer Science at [University of Applied Sciences and Arts FHNW](www.fhnw.ch)
 
+---
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -12,6 +13,10 @@
 - [Warum ist Swift so toll?](http://www.christianseiler.ch/warum-ist-swift-so-toll/)
 - [Bad Practice in Datenbank Design](http://www.christianseiler.ch/bad-practice-in-datenbank-design/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=christian-seiler)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: http://www.christianseiler.ch
