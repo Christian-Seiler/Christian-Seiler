@@ -1,7 +1,7 @@
 ### Hi there, I'm Chris
 
-[![Website](http://img.shields.io/website?label=christianseiler.ch&style=for-the-badge&url=http%3A%2F%2Fchristianseiler.ch)](http://www.christianseiler.ch)
-[![Twitter Follow](https://img.shields.io/twitter/follow/christerseiler?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchristian-seiler&screen_name=christerseiler)
+[![Website](https://img.shields.io/website?url=http%3A%2F%2Fwww.christianseiler.ch)](http://www.christianseiler.ch)
+[![Twitter Follow](https://img.shields.io/twitter/follow/christerseiler)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchristian-seiler&screen_name=christerseiler)
 
 - I'm currently working at [Swiss Mobiliar Insurance Ltd.](www.mobiliar.ch)
 - I'm currently studying Computer Science at [University of Applied Sciences and Arts FHNW](www.fhnw.ch)
