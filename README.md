@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?url=http%3A%2F%2Fwww.christianseiler.ch)](http://www.christianseiler.ch)
 [![Twitter Follow](https://img.shields.io/twitter/follow/christerseiler)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchristian-seiler&screen_name=christerseiler)
+![Profile Views](https://komarev.com/ghpvc/?username=christian-seiler)
 
 - I'm currently working at [Swiss Mobiliar Insurance Ltd.](www.mobiliar.ch)
 - I'm currently studying Computer Science at [University of Applied Sciences and Arts FHNW](www.fhnw.ch)
@@ -45,7 +46,9 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.christian-seiler.vercel.app/api?username=christian-seiler&show_icons=true&hide_border=true)](https://github.com/christian-seiler/github-readme-stats)
+[![Christian's github stats](https://github-readme-stats.christian-seiler.vercel.app/api?username=christian-seiler&show_icons=true&hide_border=true)](https://github.com/christian-seiler/github-readme-stats)
+
+[![Christian's github stats](https://github-readme-stats.christian-seiler.vercel.app/api/top-langs?username=christian-seiler&show_icons=true&hide_border=true&layout=compact)](https://github.com/christian-seiler/github-readme-stats)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
