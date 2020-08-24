@@ -47,6 +47,9 @@
 
 [![Anurag's github stats](https://github-readme-stats.christian-seiler.vercel.app/api?username=christian-seiler&show_icons=true&hide_border=true)](https://github.com/christian-seiler/github-readme-stats)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 [website]: http://www.christianseiler.ch
 [twitter]: https://twitter.com/christerseiler
 [youtube]: https://www.youtube.com/channel/UCQ8TLB8zAYGHbgUkdpQNyaA
