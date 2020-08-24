@@ -45,7 +45,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=christian-seiler&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.christian-seiler.vercel.app/api?username=christian-seiler&show_icons=true&hide_border=true)](https://github.com/christian-seiler/github-readme-stats)
 
 [website]: http://www.christianseiler.ch
 [twitter]: https://twitter.com/christerseiler
