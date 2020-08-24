@@ -9,11 +9,13 @@
 
 ### Connect with me
 
-[<img align="left" alt="christianseiler.ch" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img  align="left" alt="christianseiler.ch" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img  align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img  align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img  align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img  align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img  align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />][stackoverflow]
+[<img  align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />][medium]
 
 <br>
 
@@ -21,15 +23,15 @@
 
 ### Languages and Tools
 
-<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
-<img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
+<img  align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png" />
+<img  align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img  align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+<img  align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
+<img  align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />
+<img  align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img  align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img  align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
+<img  align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
 
 <br>
 
@@ -58,3 +60,5 @@
 [youtube]: https://www.youtube.com/channel/UCQ8TLB8zAYGHbgUkdpQNyaA
 [instagram]: https://www.instagram.com/christerseiler/
 [linkedin]: https://linkedin.com/in/christian-seiler
+[stackoverflow]: https://stackoverflow.com/users/2807608/christian-seiler
+[medium]: https://medium.com/@chrisseiler
