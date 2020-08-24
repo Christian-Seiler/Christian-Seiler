@@ -53,6 +53,11 @@
 [![Christian's github stats](https://github-readme-stats.christian-seiler.vercel.app/api/top-langs?username=christian-seiler&show_icons=true&hide_border=true&layout=compact)](https://github.com/christian-seiler/github-readme-stats)
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com//Christian-Seiler/UIComponents/pull/5) in [Christian-Seiler/UIComponents](https://github.com//Christian-Seiler/UIComponents)
+2. 💪 Opened PR [#5](https://github.com//Christian-Seiler/UIComponents/pull/5) in [Christian-Seiler/UIComponents](https://github.com//Christian-Seiler/UIComponents)
+3. 🎉 Merged PR [#4](https://github.com//Christian-Seiler/UIComponents/pull/4) in [Christian-Seiler/UIComponents](https://github.com//Christian-Seiler/UIComponents)
+4. 💪 Opened PR [#4](https://github.com//Christian-Seiler/UIComponents/pull/4) in [Christian-Seiler/UIComponents](https://github.com//Christian-Seiler/UIComponents)
+5. 🎉 Merged PR [#2](https://github.com//Christian-Seiler/Reusable/pull/2) in [Christian-Seiler/Reusable](https://github.com//Christian-Seiler/Reusable)
 <!--END_SECTION:activity-->
 
 [website]: http://www.christianseiler.ch
