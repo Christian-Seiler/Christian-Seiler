@@ -26,6 +26,7 @@
 ### Languages and Tools
 
 <img  align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png" />
+<img  align="left" alt="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ios/ios.png" />
 <img  align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img  align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 <img  align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
