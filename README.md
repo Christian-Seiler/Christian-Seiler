@@ -7,6 +7,8 @@
 - I'm currently working at [Swiss Mobiliar Insurance Ltd.](www.mobiliar.ch)
 - I'm currently studying Computer Science at [University of Applied Sciences and Arts FHNW](www.fhnw.ch)
 
+🌱 I’m currently learning Server Side Swift with Vapor 💧
+
 ### Connect with me
 
 [<img  align="left" alt="christianseiler.ch" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
