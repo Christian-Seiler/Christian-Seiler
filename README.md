@@ -56,11 +56,11 @@
 [![Christian's github stats](https://github-readme-stats.christian-seiler.vercel.app/api/top-langs?username=christian-seiler&show_icons=true&hide_border=true&layout=compact)](https://github.com/christian-seiler/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/vapor/postgres-nio/issues/124) in [vapor/postgres-nio](https://github.com/vapor/postgres-nio)
-2. ❗️ Closed issue [#124](https://github.com/vapor/postgres-nio/issues/124) in [vapor/postgres-nio](https://github.com/vapor/postgres-nio)
-3. ❗️ Opened issue [#379](https://github.com/vapor/fluent-kit/issues/379) in [vapor/fluent-kit](https://github.com/vapor/fluent-kit)
-4. ❗️ Opened issue [#124](https://github.com/vapor/postgres-nio/issues/124) in [vapor/postgres-nio](https://github.com/vapor/postgres-nio)
-5. 🗣 Commented on [#4877](https://github.com/lodash/lodash/issues/4877) in [lodash/lodash](https://github.com/lodash/lodash)
+1. 🗣 Commented on [#379](https://github.com/vapor/fluent-kit/issues/379) in [vapor/fluent-kit](https://github.com/vapor/fluent-kit)
+2. 🗣 Commented on [#124](https://github.com/vapor/postgres-nio/issues/124) in [vapor/postgres-nio](https://github.com/vapor/postgres-nio)
+3. ❗️ Closed issue [#124](https://github.com/vapor/postgres-nio/issues/124) in [vapor/postgres-nio](https://github.com/vapor/postgres-nio)
+4. ❗️ Opened issue [#379](https://github.com/vapor/fluent-kit/issues/379) in [vapor/fluent-kit](https://github.com/vapor/fluent-kit)
+5. ❗️ Opened issue [#124](https://github.com/vapor/postgres-nio/issues/124) in [vapor/postgres-nio](https://github.com/vapor/postgres-nio)
 <!--END_SECTION:activity-->
 
 [website]: http://www.christianseiler.ch
