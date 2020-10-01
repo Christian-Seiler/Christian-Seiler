@@ -56,11 +56,11 @@
 [![Christian's github stats](https://github-readme-stats.christian-seiler.vercel.app/api/top-langs?username=christian-seiler&show_icons=true&hide_border=true&layout=compact)](https://github.com/christian-seiler/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#379](https://github.com/vapor/fluent-kit/issues/379) in [vapor/fluent-kit](https://github.com/vapor/fluent-kit)
-2. 🗣 Commented on [#124](https://github.com/vapor/postgres-nio/issues/124) in [vapor/postgres-nio](https://github.com/vapor/postgres-nio)
-3. ❗️ Closed issue [#124](https://github.com/vapor/postgres-nio/issues/124) in [vapor/postgres-nio](https://github.com/vapor/postgres-nio)
-4. ❗️ Opened issue [#379](https://github.com/vapor/fluent-kit/issues/379) in [vapor/fluent-kit](https://github.com/vapor/fluent-kit)
-5. ❗️ Opened issue [#124](https://github.com/vapor/postgres-nio/issues/124) in [vapor/postgres-nio](https://github.com/vapor/postgres-nio)
+1. 💪 Opened PR [#242](https://github.com/infiniteoverflow/contribute_ur_code/pull/242) in [infiniteoverflow/contribute_ur_code](https://github.com/infiniteoverflow/contribute_ur_code)
+2. 💪 Opened PR [#239](https://github.com/infiniteoverflow/contribute_ur_code/pull/239) in [infiniteoverflow/contribute_ur_code](https://github.com/infiniteoverflow/contribute_ur_code)
+3. 🗣 Commented on [#379](https://github.com/vapor/fluent-kit/issues/379) in [vapor/fluent-kit](https://github.com/vapor/fluent-kit)
+4. 🗣 Commented on [#124](https://github.com/vapor/postgres-nio/issues/124) in [vapor/postgres-nio](https://github.com/vapor/postgres-nio)
+5. ❗️ Closed issue [#124](https://github.com/vapor/postgres-nio/issues/124) in [vapor/postgres-nio](https://github.com/vapor/postgres-nio)
 <!--END_SECTION:activity-->
 
 [website]: http://www.christianseiler.ch
